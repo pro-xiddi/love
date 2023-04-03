@@ -1,3 +1,6 @@
+# Encoded By : MUMIT ISLAM HIMU
+# Encryption : Py3 Marshal+Zlib+B64
+# Github: https://github.com/MUMIT-404-CYBER
 #----------------------------------------------
 
 import marshal, base64, zlib
